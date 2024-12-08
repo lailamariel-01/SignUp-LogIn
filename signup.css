@@ -1,0 +1,138 @@
+body{
+    margin: 0px;
+    /* background-repeat: no-repeat;
+    background-size: cover; */
+}
+
+.container{
+    height: 500px;
+    width: 60%;
+    background-color: rgb(10, 47, 133);
+    margin-top: 50px;
+    margin-left: 280px;
+    opacity: 80%;
+}
+
+.left{
+    height: 500px;
+    width: 50%;
+    background-image: url(16956480d12905f9f4a37abd0c1cd45e.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: left;
+}
+
+.text1-con{
+    height: 190px;
+    width: 80%;
+    background-color: rgb(10, 47, 133);
+    opacity: 80%;
+    margin-top: 150px;
+    margin-left: 40px;
+}
+.text1{
+    font-family: tahoma;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 50px;
+    color: white;
+    padding-top: 10px;
+}
+
+.text2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    padding-top: 20px;
+}
+
+.right{
+    width: 50%;
+    float: right;
+}
+.text3{
+    font-family: tahoma;
+    font-size: 25px;
+    text-align: center;
+    font-weight: bolder;
+    color: white;
+    padding-top: 30px;
+    /* padding-left: 30px; */
+}
+
+.user{
+    font-family: tahoma;
+    color: white;
+    padding-top: 50px;
+    padding-left: 30px ;
+    font-size: 15px;   
+}
+
+.username{
+    width: 83%;
+    height: 35px;
+    margin-top: 15px;
+    margin-left: 30px;
+    border-radius: 15px;
+    border-style: double;
+    border-color: navy ;
+}
+
+.pass{
+    font-family: tahoma;
+    color: white;
+    padding-top: 30px;
+    padding-left: 30px ;
+    font-size: 15px;   
+}
+
+.password{
+    width: 83%;
+    height: 35px;
+    margin-top: 15px;
+    margin-left: 30px;
+    border-radius: 15px;
+    border-style: double;
+    border-color: navy ;
+}
+
+button{
+    width: 100%;
+    height: 40px;
+    background-color:  rgb(37, 99, 245) ;
+    margin-top: 80px;
+    margin-left: 110px;
+    font-family: tahoma;
+    font-size: 20px;
+    border-radius: 20px;
+    font-weight: bold;
+    color: white;
+    border-style: double;
+    border-color: white;
+}
+
+.text4{
+    font-family: calibri;
+    font-size: 13px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    padding-top: 10px;
+}
+
+button:hover{
+    background-color: white;
+    color: rgb(37, 99, 245);
+    border-color: rgb(37, 99, 245);
+}
+
+a:hover{
+    color: lightblue;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-family: tahoma;
+}
